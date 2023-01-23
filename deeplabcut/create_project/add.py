@@ -10,6 +10,7 @@
 #
 
 
+
 def add_new_videos(
     config, videos, copy_videos=False, coords=None, extract_frames=False
 ):
